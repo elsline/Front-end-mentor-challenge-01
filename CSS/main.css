@@ -196,6 +196,7 @@
         flex-direction: column;
     }
     .left-section {
+        border-radius: 0 0 28px 28px;
         width: auto;
 
     }
@@ -226,6 +227,7 @@
         flex-direction: column;
     }
     .left-section {
+        border-radius: 0 0 28px 28px;
         width: auto;
 
     }
@@ -254,6 +256,7 @@
         flex-direction: column;
     }
     .left-section {
+        border-radius: 0 0 28px 28px;
         width: auto;
 
 
